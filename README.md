@@ -1,0 +1,2 @@
+# AppReciclagem
+ Crie um programa de gestão de reciclagem de lixo; o programa deve realizar acções que visam reciclar materiais.Empregue os objectos necessários na lista duplamente ligada. O programa deve ser capaz de: Manipular os dados do Depositário,Fábrica e o Operador de Máquina; Métodos : 1.Registar material normal 2.Registar material especial 3.Mostrar a Quantidade de material 4.Mostrar o valor Total gasto 5.Mostrar Todos os Dados 6.Excluir (Início, Meio e Fim)
